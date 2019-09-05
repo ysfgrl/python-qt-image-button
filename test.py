@@ -1,6 +1,5 @@
 # coding=utf-8
-import os,sys, stat
-import platform
+import sys
 from PyQt4.QtCore import *
 from PyQt4.QtGui import *
 from PyQt4 import *
